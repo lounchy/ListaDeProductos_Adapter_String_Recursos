@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="productos_string_array">
+    <item name="cereales_desayuno">Cereales de desayuno</item>
+    <item name="pan_integral">Pan integral</item>
+    <item name="leche">Leche</item>
+    <item name="agua">Agua</item>
+    <item name="yogur">Yogur</item>
+    <item name="huevos">Huevos</item>
+    <item name="acelga">Acelga</item>
+    <item name="calabacin">Calabacín</item>
+    <item name="espinacas">Espinacas</item>
+    <item name="patata">Patata</item>
+    <item name="remolacha">Remolacha cosida</item>
+    <item name="setas">Setas</item>
+    <item name="zanahoria">Zanahoria</item>
+    <item name="manzana">Manzana</item>
+    <item name="naranja">Naranja</item>
+    <item name="platano">Plátano</item>
+    <item name="pechuga_pollo">Pechuga de Pollo</item>
+    <item name="pechuga_de_pavo">Pechuga de Pavo</item>
+    <item name="carne_picada">Carne picada</item>
+    <item name="carne_de_buey">Carne de Buey</item>
+    <item name="gulas">Gulas</item>
+    <item name="lubina">Lubina</item>
+    <item name="salmon_ahumado">Salmon ahumado</item>
+    <item name="frogy">Frogy</item>
+    <item name="sal">Sal</item>
+    </string-array>
+</resources>
